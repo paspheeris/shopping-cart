@@ -1,0 +1,472 @@
+[
+    {
+        "quantity": 4,
+        "variantName": "US 9",
+        "productName": "LED High Tops"
+    },
+    {
+        "quantity": 14,
+        "variantName": "US 10",
+        "productName": "LED High Tops"
+    },
+    {
+        "quantity": 6,
+        "variantName": "US 11",
+        "productName": "LED High Tops"
+    },
+    {
+        "quantity": 4,
+        "variantName": "US 12",
+        "productName": "LED High Tops"
+    },
+    {
+        "quantity": 2,
+        "variantName": "small",
+        "productName": "Striped Skirt and Top"
+    },
+    {
+        "quantity": 1,
+        "variantName": "medium",
+        "productName": "Striped Skirt and Top"
+    },
+    {
+        "quantity": 11,
+        "variantName": "large",
+        "productName": "Striped Skirt and Top"
+    },
+    {
+        "quantity": 8,
+        "variantName": "xl",
+        "productName": "Striped Skirt and Top"
+    },
+    {
+        "quantity": 14,
+        "variantName": "xxl",
+        "productName": "Striped Skirt and Top"
+    },
+    {
+        "quantity": 12,
+        "variantName": "small",
+        "productName": "Olive Green Jacket"
+    },
+    {
+        "quantity": 9,
+        "variantName": "medium",
+        "productName": "Olive Green Jacket"
+    },
+    {
+        "quantity": 2,
+        "variantName": "large",
+        "productName": "Olive Green Jacket"
+    },
+    {
+        "quantity": 16,
+        "variantName": "xl",
+        "productName": "Olive Green Jacket"
+    },
+    {
+        "quantity": 14,
+        "variantName": "xxl",
+        "productName": "Olive Green Jacket"
+    },
+    {
+        "quantity": 8,
+        "variantName": "small",
+        "productName": "Red Sports Tee"
+    },
+    {
+        "quantity": 18,
+        "variantName": "medium",
+        "productName": "Red Sports Tee"
+    },
+    {
+        "quantity": 15,
+        "variantName": "large",
+        "productName": "Red Sports Tee"
+    },
+    {
+        "quantity": 20,
+        "variantName": "xl",
+        "productName": "Red Sports Tee"
+    },
+    {
+        "quantity": 16,
+        "variantName": "xxl",
+        "productName": "Red Sports Tee"
+    },
+    {
+        "quantity": 9,
+        "variantName": "small",
+        "productName": "Blue Silk Tuxedo"
+    },
+    {
+        "quantity": 14,
+        "variantName": "medium",
+        "productName": "Blue Silk Tuxedo"
+    },
+    {
+        "quantity": 17,
+        "variantName": "large",
+        "productName": "Blue Silk Tuxedo"
+    },
+    {
+        "quantity": 10,
+        "variantName": "xl",
+        "productName": "Blue Silk Tuxedo"
+    },
+    {
+        "quantity": 2,
+        "variantName": "xxl",
+        "productName": "Blue Silk Tuxedo"
+    },
+    {
+        "quantity": 17,
+        "variantName": "small",
+        "productName": "White Cotton Shirt"
+    },
+    {
+        "quantity": 3,
+        "variantName": "medium",
+        "productName": "White Cotton Shirt"
+    },
+    {
+        "quantity": 7,
+        "variantName": "large",
+        "productName": "White Cotton Shirt"
+    },
+    {
+        "quantity": 5,
+        "variantName": "xl",
+        "productName": "White Cotton Shirt"
+    },
+    {
+        "quantity": 0,
+        "variantName": "xxl",
+        "productName": "White Cotton Shirt"
+    },
+    {
+        "quantity": 12,
+        "variantName": "small",
+        "productName": "Chequered Red Shirt"
+    },
+    {
+        "quantity": 6,
+        "variantName": "medium",
+        "productName": "Chequered Red Shirt"
+    },
+    {
+        "quantity": 19,
+        "variantName": "large",
+        "productName": "Chequered Red Shirt"
+    },
+    {
+        "quantity": 15,
+        "variantName": "xl",
+        "productName": "Chequered Red Shirt"
+    },
+    {
+        "quantity": 14,
+        "variantName": "xxl",
+        "productName": "Chequered Red Shirt"
+    },
+    {
+        "quantity": 6,
+        "variantName": "small",
+        "productName": "Long Sleeve Cotton Top"
+    },
+    {
+        "quantity": 2,
+        "variantName": "medium",
+        "productName": "Long Sleeve Cotton Top"
+    },
+    {
+        "quantity": 20,
+        "variantName": "large",
+        "productName": "Long Sleeve Cotton Top"
+    },
+    {
+        "quantity": 1,
+        "variantName": "xl",
+        "productName": "Long Sleeve Cotton Top"
+    },
+    {
+        "quantity": 15,
+        "variantName": "xxl",
+        "productName": "Long Sleeve Cotton Top"
+    },
+    {
+        "quantity": 19,
+        "variantName": "small",
+        "productName": "Silk Summer Top"
+    },
+    {
+        "quantity": 10,
+        "variantName": "medium",
+        "productName": "Silk Summer Top"
+    },
+    {
+        "quantity": 17,
+        "variantName": "large",
+        "productName": "Silk Summer Top"
+    },
+    {
+        "quantity": 5,
+        "variantName": "xl",
+        "productName": "Silk Summer Top"
+    },
+    {
+        "quantity": 8,
+        "variantName": "xxl",
+        "productName": "Silk Summer Top"
+    },
+    {
+        "quantity": 3,
+        "variantName": "small",
+        "productName": "Zipped Jacket"
+    },
+    {
+        "quantity": 15,
+        "variantName": "medium",
+        "productName": "Zipped Jacket"
+    },
+    {
+        "quantity": 18,
+        "variantName": "large",
+        "productName": "Zipped Jacket"
+    },
+    {
+        "quantity": 4,
+        "variantName": "xl",
+        "productName": "Zipped Jacket"
+    },
+    {
+        "quantity": 4,
+        "variantName": "xxl",
+        "productName": "Zipped Jacket"
+    },
+    {
+        "quantity": 8,
+        "variantName": "small",
+        "productName": "Soft Winter Jacket"
+    },
+    {
+        "quantity": 14,
+        "variantName": "medium",
+        "productName": "Soft Winter Jacket"
+    },
+    {
+        "quantity": 18,
+        "variantName": "large",
+        "productName": "Soft Winter Jacket"
+    },
+    {
+        "quantity": 20,
+        "variantName": "xl",
+        "productName": "Soft Winter Jacket"
+    },
+    {
+        "quantity": 4,
+        "variantName": "xxl",
+        "productName": "Soft Winter Jacket"
+    },
+    {
+        "quantity": 9,
+        "variantName": "small",
+        "productName": "Navy Sports Jacket"
+    },
+    {
+        "quantity": 2,
+        "variantName": "medium",
+        "productName": "Navy Sports Jacket"
+    },
+    {
+        "quantity": 5,
+        "variantName": "large",
+        "productName": "Navy Sports Jacket"
+    },
+    {
+        "quantity": 11,
+        "variantName": "xl",
+        "productName": "Navy Sports Jacket"
+    },
+    {
+        "quantity": 7,
+        "variantName": "xxl",
+        "productName": "Navy Sports Jacket"
+    },
+    {
+        "quantity": 13,
+        "variantName": "small",
+        "productName": "Dark Denim Top"
+    },
+    {
+        "quantity": 6,
+        "variantName": "medium",
+        "productName": "Dark Denim Top"
+    },
+    {
+        "quantity": 8,
+        "variantName": "large",
+        "productName": "Dark Denim Top"
+    },
+    {
+        "quantity": 6,
+        "variantName": "xl",
+        "productName": "Dark Denim Top"
+    },
+    {
+        "quantity": 17,
+        "variantName": "xxl",
+        "productName": "Dark Denim Top"
+    },
+    {
+        "quantity": 19,
+        "variantName": "small",
+        "productName": "Classic Leather Jacket"
+    },
+    {
+        "quantity": 15,
+        "variantName": "medium",
+        "productName": "Classic Leather Jacket"
+    },
+    {
+        "quantity": 7,
+        "variantName": "large",
+        "productName": "Classic Leather Jacket"
+    },
+    {
+        "quantity": 3,
+        "variantName": "xl",
+        "productName": "Classic Leather Jacket"
+    },
+    {
+        "quantity": 14,
+        "variantName": "xxl",
+        "productName": "Classic Leather Jacket"
+    },
+    {
+        "quantity": 20,
+        "variantName": "small",
+        "productName": "Floral White Top"
+    },
+    {
+        "quantity": 13,
+        "variantName": "medium",
+        "productName": "Floral White Top"
+    },
+    {
+        "quantity": 18,
+        "variantName": "large",
+        "productName": "Floral White Top"
+    },
+    {
+        "quantity": 0,
+        "variantName": "xl",
+        "productName": "Floral White Top"
+    },
+    {
+        "quantity": 8,
+        "variantName": "xxl",
+        "productName": "Floral White Top"
+    },
+    {
+        "quantity": 7,
+        "variantName": "small",
+        "productName": "Striped Silk Blouse"
+    },
+    {
+        "quantity": 8,
+        "variantName": "medium",
+        "productName": "Striped Silk Blouse"
+    },
+    {
+        "quantity": 4,
+        "variantName": "large",
+        "productName": "Striped Silk Blouse"
+    },
+    {
+        "quantity": 10,
+        "variantName": "xl",
+        "productName": "Striped Silk Blouse"
+    },
+    {
+        "quantity": 7,
+        "variantName": "xxl",
+        "productName": "Striped Silk Blouse"
+    },
+    {
+        "quantity": 4,
+        "variantName": "small",
+        "productName": "Yellow Wool Jumper"
+    },
+    {
+        "quantity": 11,
+        "variantName": "medium",
+        "productName": "Yellow Wool Jumper"
+    },
+    {
+        "quantity": 7,
+        "variantName": "large",
+        "productName": "Yellow Wool Jumper"
+    },
+    {
+        "quantity": 14,
+        "variantName": "xl",
+        "productName": "Yellow Wool Jumper"
+    },
+    {
+        "quantity": 13,
+        "variantName": "xxl",
+        "productName": "Yellow Wool Jumper"
+    },
+    {
+        "quantity": 7,
+        "variantName": "small",
+        "productName": "Classic Varsity Top"
+    },
+    {
+        "quantity": 6,
+        "variantName": "medium",
+        "productName": "Classic Varsity Top"
+    },
+    {
+        "quantity": 20,
+        "variantName": "large",
+        "productName": "Classic Varsity Top"
+    },
+    {
+        "quantity": 7,
+        "variantName": "xl",
+        "productName": "Classic Varsity Top"
+    },
+    {
+        "quantity": 6,
+        "variantName": "xxl",
+        "productName": "Classic Varsity Top"
+    },
+    {
+        "quantity": 4,
+        "variantName": "small",
+        "productName": "Ocean Blue Shirt"
+    },
+    {
+        "quantity": 5,
+        "variantName": "medium",
+        "productName": "Ocean Blue Shirt"
+    },
+    {
+        "quantity": 1,
+        "variantName": "large",
+        "productName": "Ocean Blue Shirt"
+    },
+    {
+        "quantity": 13,
+        "variantName": "xl",
+        "productName": "Ocean Blue Shirt"
+    },
+    {
+        "quantity": 3,
+        "variantName": "xxl",
+        "productName": "Ocean Blue Shirt"
+    }
+]

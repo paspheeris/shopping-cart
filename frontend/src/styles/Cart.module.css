@@ -1,0 +1,74 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+.centeredFlexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cartItemsContainer {
+  max-width: 900px;
+  align-self: center;
+  min-width: 60%
+}
+.cartRow {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  padding: .5rem;
+  width: 100%;
+  min-width: 60%;
+  max-width: 700px;
+  align-self: center;
+  border-bottom: 1px solid #ebebeb;
+  flex-direction: row;
+  flex: 1 1 0;
+  justify-content: space-between;
+}
+.nameVariantContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  text-align: left;
+  justify-content: center;
+}
+.variantName {
+  margin-top: .5rem;
+}
+.cartItemQuantity {
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
+.priceContainer {
+  padding-left: 2rem;
+  min-width: 100px;
+  text-align: right;
+}
+.subtotalContainer {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: none;
+  flex-direction: row;
+}
+.quantityPriceContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 1rem;
+}
+
+@media (max-width: 600px) {
+  .cartRow {
+    flex-direction: column;
+  }
+  .subtotalContainer {
+    flex-direction: row;
+  }
+  .quantityPriceContainer {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0rem;
+  }
+}

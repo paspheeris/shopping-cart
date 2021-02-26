@@ -1,0 +1,34 @@
+version: "2"
+services:
+    backend:
+        image: webapp-backend
+        restart: always
+        ports:
+            - "8000:8000"
+        volumes:
+            - ./backend:/backend
+            - /backend/node_modules
+        # links:
+            # - api
+        build:
+          context: .
+          dockerfile: backend/Dockerfile
+        # networks:
+        #     webappnetwork
+    frontend:
+        image: webapp-client
+        restart: always
+        ports:
+            - "3000:3000"
+        volumes:
+            - ./frontend:/frontend
+            - /frontend/node_modules
+        # links:
+            # - api
+        build:
+          context: .
+          dockerfile: frontend/Dockerfile
+        depends_on:
+          - backend
+        # networks:
+        #     webappnetwork
